@@ -69,3 +69,6 @@ app.set('view engine', 'ejs')
 app.use('/', indexRouter);
 
 server.listen(process.env.PORT || 3000);
+
+
+// this is a comment added for testing purposes
